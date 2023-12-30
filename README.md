@@ -1,3 +1,5 @@
+MEGA YAZILIM & ÜRETKEN AKADEMİ REACT.JS EĞİTİMİ 7. HAFTA ÖDEVİ
+
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
